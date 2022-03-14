@@ -1,0 +1,129 @@
+body{
+    font-family: 'Montserrat-Black', sans-serif;
+}
+#title{
+    background-color: #ff4c68;
+}
+h1{
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 900;
+    color: white;
+}
+h2{
+    font-family: 'Montserrat-Bold',sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+p{
+    color: #8f8f8f;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.btn-light{
+    border-radius: 2px ;
+
+}   
+.navbar-brand{
+    font-size: 2.5rem;
+    font-weight: 400;
+    font-family: 'ubuntu';
+}
+.navbar{
+    padding:0 0 4.5rem;
+    
+}
+.navbar-link{
+    padding-right: 45px;
+}
+#features{
+    padding: 7% 10%;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.title_image{
+    width: 60%;
+    transform: rotate(25deg);
+}
+.fa-solid{
+    color:  #ef8172;;
+    margin-bottom: 0.2em;
+    
+}
+.tick{
+    padding-left: 1em;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+.feature_box{
+    margin-top: 6.25rem;
+    margin-bottom: 6.25rem;
+    
+}
+.content{
+    text-align: center;
+}
+i:hover{
+    color: #ff4c68
+}
+/* Testimonials */
+#testimonials{
+    
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+.testimonial_image{
+    width: 10%;
+    border-radius: 50px;
+    margin: 50px 0px 50px 50px;
+}   
+.carousel-item{
+    padding: 7% 23%;
+}
+/* press section */
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press_image{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+/* pricing */
+#pricing{
+    padding: 100px;
+}
+.pricing-column{
+    padding-top: 50px;
+    padding-right: 50px;
+    text-align: center;
+}
+/* last section */
+#cta{
+    font-family: 'Montserrat-Bold',sans-serif;
+    color: white;
+    background-color:  #ff4c68;
+    text-align: center;
+    height: 30rem;
+       
+}
+.last_text{
+    font-family: 'Montserrat-Black',sans-serif;
+    font-size: 3rem;
+    font-weight: 900;
+    padding-top: 10rem;
+}
+.btn{
+    margin-right: 10px;
+    margin-top: 5px;
+}
+#footer{
+    color: black;
+    text-align: center;
+    padding-top: 50px;
+}
